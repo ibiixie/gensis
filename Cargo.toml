@@ -1,0 +1,10 @@
+[package]
+name = "genesis"
+version = "0.1.0"
+edition = "2024"
+license = "MIT OR Apache-2.0"
+description = "Null-Soft Install System (NSIS) file install/delete instruction generator."
+repository = "https://github.com/ibiixie/gensis"
+readme = "README.md"
+
+[dependencies]
